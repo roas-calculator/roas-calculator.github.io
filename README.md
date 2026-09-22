@@ -19,3 +19,5 @@ Break-even return on ad spend is the inverse of your margin, and almost everyone
 ---
 
 *This is an independent page with no affiliation to or endorsement from TrendTrack; all trademarks are the property of their respective owners.*
+
+_Last reviewed: 2026-09-22_
